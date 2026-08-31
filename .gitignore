@@ -7,3 +7,6 @@ Desktop.ini
 .idea/
 .vscode/
 *.swp
+
+# MkDocs 本地构建产物
+site/
